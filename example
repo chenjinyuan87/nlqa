@@ -1,0 +1,36 @@
+Question: osceola indiana raceway is in what county ?
+
+Reference: osceola , indiana raceway is in the st. joseph county. osceola , indiana osceola is a town in penn township , st. joseph county , indiana , united
+states. the population was 1,859 at the 2000 census. it is part of the south bendmishawaka , in-mi , metropolitan statistical area.the town is named after
+seminole fighter , osceola .
+
+Seq2Seq: lake bank is in thurston county , washington , united states. the population was at the 2010 census. the population was at the 2010 census. it is
+the county seat of county , michigan , united states. the population was at the 2010 census. the population was at the 2010 census. the population was at
+the 2010 census . (ROUGE1:0.20)
+
++Ptr: osceola indiana raceway is located at indiana raceway is an american term located in the united states. osceola bureau of indiana county is part of the
+town of indiana county , new york , the population was at the 2010 census. the population was at the 2010 census. the city is at at the 2000 census. the
+city is miles . (ROUGE1:0.47)
+
++GAN: the indiana raceway is a town in penn township , st. joseph county , indiana , united states. osceola , indiana osceola is a town in penn township , st.
+joseph county , indiana , united states. the population was 1,859 at the 2010 census. it is part of the south bendmishawaka , in-mi , metropolitan statistical
+area . (ROUGE1:0.73)
+
+Question: how long do you boil crawfish tails ?
+Reference: boil 10 to 15 minutes , depending on size of crawfish , turn off heat for 10 minutes , then put in ice chest for 10 minutes and then we eat. we
+boil about 50 to 60 pounds for 6 to 8 people.left overs are frozen if there are any. wash them well so you do n’t have bait or grass when you are ready to
+eat.oil 10 to 15 minutes , depending on size of crawfish , turn off heat for 10 minutes , then put in ice chest for 10 minutes and then we eat. we boil about
+50 to 60 pounds for 6 to 8 people .
+
+Seq2Seq: you will need to be 8 to 8 feet long and 6 to 8 weeks. you are going to cook more than one foot of pecan you will need a pot with a slotted
+spoon to hold your scouring i will need a pot of fence. you will need a pot with a slotted spoon to hold your scouring i will need a pot of fence. you will
+need to cook more than one holes on a kitchen kitchen . (ROUGE1:0.07)
+
++Ptr: a can be for 10 minutes. place a layer of the still hot shop. about 2-3 deep in the bottom of a clean plastic cooler , making sure the plug is in. sprinkle
+some meow seasoning on top. boil 10 to 15 minutes , depending on size of crawfish , turn off heat for 10 minutes , then put in ice chest for 10 minutes
+and then we eat. we boil about 50 to 60 pounds for 6 to 8 are frozen if there are 400 . (ROUGE1:0.30)
+
++GAN: you boil crawfish tails 10 15 minutes , depending on size of crawfish , turn off heat for 10 minutes , then put in ice chest for 10 minutes and then
+we eat. we boil about 50 to 60 pounds for 6 to 8 people.left overs are frozen if there are any. wash them well so you do n’t have bait or grass when you
+are ready to eat.oil 10 to 15 minutes , depending on size of crawfish , turn off heat for 10 minutes , then put in ice chest for 10 minutes and then we eat.
+we (ROUGE1:1.0)
